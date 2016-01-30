@@ -1,2 +1,6 @@
-# hello-world
-Just another repository
+hello-world
+===========
+
+Hello humans,
+
+Hikon here, I like golang and node.js.
